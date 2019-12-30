@@ -4,7 +4,7 @@
 This repository is a demonstration of visualizing song data using d3. 
 
 ### Data Pull
-**Initial Code**: Python and Beautiful Soup were used to pull popular song keys [here](https://www.songkeyfinder.com/). 
+**Initial Code**: Python and Beautiful Soup were used to pull popular song keys from [Song Key Finder](https://www.songkeyfinder.com/). 
 
 **Manual Cleanup**: Some manual cleanup was performed to remove songs without sufficient data as well as add album and year metadata.
 
